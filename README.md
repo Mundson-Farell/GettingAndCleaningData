@@ -2,6 +2,7 @@
 Human Activity Recognition Using Smartphones Dataset Version 1.0
 ==================================================================
 Average for each Subject and each Activity 
+based on only the measurements on the mean and standard deviation for each measurement
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
